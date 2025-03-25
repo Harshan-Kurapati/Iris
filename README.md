@@ -4,7 +4,7 @@ This project focuses on building a multi-class classification model for the **Ir
      
 ## Project Overview     
   
-The project demonstrates:
+The project demonstrates: 
 1. **Data Cleaning**: Preparing the Iris dataset for machine learning by handling irrelevant features and encoding target variables.
 2. **Feature Scaling**: Standardizing features for better convergence in logistic regression.
 3. **Multi-Class Logistic Regression**:
