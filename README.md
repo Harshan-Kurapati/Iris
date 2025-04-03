@@ -13,7 +13,7 @@ The project demonstrates:
 4. **Evaluation**: Assessing the model's accuracy, precision, recall, and F1-score using classification metrics. 
   
 ## Table of Contents  
- 
+  
 - [Installation](#installation)
 - [Dataset](#dataset) 
 - [Project Workflow](#project-workflow)
