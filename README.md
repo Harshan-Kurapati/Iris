@@ -19,7 +19,7 @@ The project demonstrates:
 - [Project Workflow](#project-workflow)  
 - [Key Results](#key-results) 
 - [Conclusion](#conclusion)  
-- [License](#license)
+- [License](#license) 
 
 ## Installation
 
