@@ -12,7 +12,7 @@ The project demonstrates:
    - **Scikit-learn**: Comparing custom implementation with the library implementation. 
 4. **Evaluation**: Assessing the model's accuracy, precision, recall, and F1-score using classification metrics. 
   
-## Table of Contents  
+## Table of Contents   
   
 - [Installation](#installation)
 - [Dataset](#dataset)  
