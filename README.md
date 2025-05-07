@@ -1,6 +1,6 @@
 # Iris Dataset Classification using Logistic Regression  
  
-This project focuses on building a multi-class classification model for the **Iris dataset** using **logistic regression**, both from scratch and using Scikit-learn's built-in tools. The aim is to classify the three Iris species (Setosa, Versicolor, and Virginica) based on their sepal and petal dimensions.                    
+This project focuses on building a multi-class classification model for the **Iris dataset** using **logistic regression**, both from scratch and using Scikit-learn's built-in tools. The aim is to classify the three Iris species (Setosa, Versicolor, and Virginica) based on their sepal and petal dimensions.                     
           
 ## Project Overview            
    
