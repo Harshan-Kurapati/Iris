@@ -9,7 +9,7 @@ The project demonstrates:
 2. **Feature Scaling**: Standardizing features for better convergence in logistic regression.
 3. **Multi-Class Logistic Regression**:
    - **From Scratch**: Implementing logistic regression with gradient descent and binary cross-entropy loss.  
-   - **Scikit-learn**: Comparing custom implementation with the library implementation. 
+   - **Scikit-learn**: Comparing custom implementation with the library implementation.  
 4. **Evaluation**: Assessing the model's accuracy, precision, recall, and F1-score using classification metrics. 
   
 ## Table of Contents   
