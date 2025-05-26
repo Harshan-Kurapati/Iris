@@ -14,7 +14,7 @@ The project demonstrates:
   
 ## Table of Contents   
   
-- [Installation](#installation)
+- [Installation](#installation) 
 - [Dataset](#dataset)   
 - [Project Workflow](#project-workflow)   
 - [Key Results](#key-results)  
